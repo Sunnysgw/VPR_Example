@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AndroidHciCloudVprExample</string>
+    <string name="hcicloudvprexample">HciCloud Vpr Example Begin!\n</string>
+</resources>

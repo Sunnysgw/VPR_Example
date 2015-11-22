@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "F:\\Workspaces\\AndroidStudioProjects\\VPR_Example1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 62,
+                    "endOffset": 113
+                },
+                "from": {
+                    "file": "F:\\Workspaces\\AndroidStudioProjects\\VPR_Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 137,
+                        "endColumn": 62,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 118,
+                    "endColumn": 76,
+                    "endOffset": 190
+                },
+                "from": {
+                    "file": "F:\\Workspaces\\AndroidStudioProjects\\VPR_Example1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 76,
+                        "endOffset": 131
+                    }
+                }
+            }
+        ]
+    }
+]
